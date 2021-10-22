@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1634881648944" clover="3.2.0">
+  <project timestamp="1634881648945" name="All files">
+    <metrics statements="5" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0" elements="8" coveredelements="1" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="example.js" path="D:\codecoverage\example.js">
+      <metrics statements="5" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
